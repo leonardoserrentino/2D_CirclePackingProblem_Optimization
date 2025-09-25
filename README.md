@@ -23,13 +23,6 @@ This repository brings together six algorithmic strategies—ranging from a naï
 - [5. Installation](#5-installation)
 - [6. Usage](#6-usage)
 - [7. Configuration Parameters](#7-configuration-parameters)
-- [8. Reproducibility Notes](#8-reproducibility-notes)
-- [9. Benchmarking Protocol](#9-benchmarking-protocol)
-- [10. Limitations and Design Choices](#10-limitations-and-design-choices)
-- [11. Extending the Codebase](#11-extending-the-codebase)
-- [12. How to Cite](#12-how-to-cite)
-- [13. License](#13-license)
-- [14. Acknowledgements](#14-acknowledgements)
 
 ---
 
